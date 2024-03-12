@@ -7,8 +7,10 @@ body {
 }
 
 .container {
+  display: block;
+  justify-content: center;
   max-width: 600px;
-  margin: 60px, auto;
+  margin: 60px auto;
   border-radius: 10px;
   background: white;
   padding: 40px;
